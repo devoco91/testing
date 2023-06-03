@@ -1,0 +1,530 @@
+
+  .footer{
+    background-color:#000208;
+    color: #ffffff;
+    min-height: 300px;
+    overflow: hidden;
+}
+
+
+.copy{
+   margin-left: 250px!important;
+   color: grey!important;
+     margin-top: 70px;
+     font-size: 12px;
+   
+}
+
+
+.foot-img{
+   width: 200px;
+   height: 50px;
+}
+
+.grid{
+ display: grid!important;grid-template-columns: 1fr 1fr 1fr !important;
+ /* margin-left: 00px; */
+ margin-top: 50px!important;
+}
+
+.grid .line{
+ visibility: hidden;
+} 
+
+
+/* .grid .about{
+ margin-left: 100px;
+ padding-left: 10px;
+}
+.grid .links{
+ margin-left: 200px;
+} */
+
+
+.para{
+   font-size: 12px;
+   font-weight: lighter;
+   margin-top: 20px;
+   color: #ffffff!important;
+}
+
+
+
+.las{
+   width: 400px!important;
+   margin-left: 50px;
+}
+
+
+
+
+
+.las a{
+ margin-top: 30px;
+ 
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 12px;
+ text-transform: lowercase;
+}
+
+.las a i{
+ padding-top: 15px;
+ padding-right: 15px;
+}
+
+.fa-solid{
+    margin-right: 10px;
+}
+
+
+.links{
+ width: 300px;
+ margin-left:100px;
+ 
+}
+
+
+/* .links h5{
+    margin-left:-80px !important;  
+} */
+.links .anchor{
+ display: block;
+ text-transform: capitalize;
+  
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 13px;
+ padding-bottom: 20px;
+ font-weight: lighter;
+ margin-left:-30px;
+ 
+}
+
+
+
+.about{
+ width: 300px;
+ margin-left: 50px;
+}
+.about .anchor{
+ display: block;
+  
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 13px;
+ padding-bottom: 20px;
+ font-weight: lighter;
+ margin-left:-30px;
+ 
+}
+
+
+
+
+.footer-vector .pol1{
+ width: 300px;
+ margin-top: -173px;
+ margin-left: 363px;
+}
+
+
+@media(max-width:1200px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -173px;
+     margin-left: 278px;
+     /* display: none; */
+ }
+
+
+ .copy{
+     margin-left: 240px!important;
+     color: grey!important;
+       margin-top: 70px;
+       font-size: 12px;
+     
+ }
+
+}
+
+
+
+@media(max-width:1024px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -133px;
+     margin-left: 195px;
+     overflow: hidden;
+     /* display: none; */
+   }
+
+   .about{
+       margin-left: -40px;
+   }
+
+
+   .copy{
+       margin-left: 100px!important;
+       margin-top: 120px!important;
+   }
+
+}
+
+@media(max-width:992px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -181px;
+     margin-left: 180px;
+     overflow: hidden;
+     /* display: none; */
+ }
+
+
+ .copy{
+     margin-left: 120px!important;
+     color: grey!important;
+       margin-top: 80px;
+       font-size: 12px;
+     
+ }
+
+
+ 
+.footer{
+ background-color:#000208;
+ color: #ffffff;
+ height: 570px;
+}
+
+
+
+.las{
+ width: 300px!important;
+ margin-left: 50px;
+}
+
+.about{
+ width: 200px;
+ margin-left: -80px!important;
+}
+
+
+.links{
+ margin-left: 0px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -133px;
+     margin-left: -51px;
+     overflow: hidden;
+     display: none;
+ }
+
+
+ .copy{
+     margin-left: 100px!important;
+     color: grey!important;
+       margin-top: 80px;
+       font-size: 12px;
+     
+ }
+
+
+ 
+.footer{
+ background-color:#000208;
+ color: #ffffff;
+ height: 800px;
+}
+
+
+
+.las{
+ width: 500px!important;
+ margin-left: 0px;
+}
+
+.foot-img{
+ width: 200px;
+ height: 50px;
+ margin-left: 50px;
+}
+
+
+.para{
+ font-size: 12px;
+ font-weight: lighter;
+ margin-top: 20px;
+ margin-left: 50px;
+}
+
+.about{
+ width: 200px;
+ margin-left: -250px!important;
+}
+
+
+.links{
+ margin-left: 100px;
+}
+
+
+
+.las a{
+ margin-top: 30px;
+ 
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 12px;
+ text-transform: lowercase;
+
+}
+
+.las a i{
+ padding-top: 15px;
+ padding-right: 10px;
+ margin-left: 50px;
+}
+
+
+.grid .line{
+ visibility: hidden;
+ margin-left:-150px;
+} 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:576px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -133px;
+     margin-left: 176px;
+     overflow: hidden;
+     display: none;
+ }
+
+
+ .copy{
+     margin-left: 30px!important;
+     color: grey!important;
+       margin-top: 80px;
+       font-size: 12px;
+     
+ }
+
+
+ 
+.footer{
+ background-color:#000208;
+ color: #ffffff;
+ height: 800px;
+}
+
+
+
+.las{
+ width: 500px!important;
+ margin-left: 0px;
+}
+
+.foot-img{
+ width: 200px;
+ height: 50px;
+ margin-left: 50px;
+}
+
+
+.para{
+ font-size: 12px;
+ font-weight: lighter;
+ margin-top: 20px;
+ margin-left: 30px;
+ width: 400px;
+}
+
+.about{
+ width: 200px;
+ margin-left: -250px!important;
+}
+
+
+.links{
+ margin-left: 50px;
+}
+
+
+
+.las a{
+ margin-top: 30px;
+ margin-left: 30px;
+ 
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 12px;
+ text-transform: lowercase;
+
+}
+
+.las a i{
+ padding-top: 15px;
+ padding-right: 10px;
+ margin-left: 0px;
+}
+
+
+.grid .line{
+ visibility: hidden;
+ margin-left:-200px;
+} 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:450px){
+
+ .footer-vector .pol1{
+     width: 300px;
+     margin-top: -133px;
+     margin-left: 176px;
+     overflow: hidden;
+     display: none;
+ }
+
+
+ .copy{
+     margin-left: 10px!important;
+     color: grey!important;
+       margin-top: 40px!important;
+       font-size: 12px;
+     
+ }
+
+
+ 
+.footer{
+ background-color:#000208;
+ color: #ffffff;
+ height: 900px;
+ width: 100%!important;
+margin-left: 0px!important ;
+ padding: 0 30px!important;
+ /* margin-left:0px!important ; */
+ /* margin-left: 100px; */
+ /* overflow-y: hidden; */
+}
+
+
+
+.las{
+ width: 400px!important;
+ margin-left: 0px;
+}
+
+.foot-img{
+ width: 200px;
+ height: 50px;
+ margin-left: -10px;
+}
+
+
+.para{
+ font-size: 12px;
+ font-weight: lighter;
+ margin-top: 20px;
+ margin-left: 5px;
+ margin-right: 30px;
+ width: 350px;
+}
+
+.about{
+ width: 200px;
+ margin-left: -190px!important;
+}
+
+
+.links{
+ margin-left: 15px;
+}
+
+
+
+.las a{
+ margin-top: 50px;
+ 
+ color: #ffffff;
+ text-decoration: none;
+ font-size: 17px;
+ text-transform: lowercase;
+ margin-left: 10px;
+
+}
+.links a{
+ font-size: 17px;
+}
+
+.about a{
+ font-size: 17px;
+}
+
+.las a i{
+ padding-top: 20px;
+ padding-right: 10px;
+ margin-left: 0px;
+}
+
+
+.grid .line{
+ visibility: hidden;
+ margin-left:-200px;
+} 
+
+
+}
+
+
+
+
+
+
+
+
